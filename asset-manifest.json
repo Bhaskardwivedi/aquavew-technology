@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/aquavew-technology/static/css/main.da1f4add.chunk.css",
+    "main.js": "/aquavew-technology/static/js/main.a6210ebf.chunk.js",
+    "main.js.map": "/aquavew-technology/static/js/main.a6210ebf.chunk.js.map",
+    "runtime-main.js": "/aquavew-technology/static/js/runtime-main.1b1913a9.js",
+    "runtime-main.js.map": "/aquavew-technology/static/js/runtime-main.1b1913a9.js.map",
+    "static/css/2.d65fdcc0.chunk.css": "/aquavew-technology/static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.fd58d1c4.chunk.js": "/aquavew-technology/static/js/2.fd58d1c4.chunk.js",
+    "static/js/2.fd58d1c4.chunk.js.map": "/aquavew-technology/static/js/2.fd58d1c4.chunk.js.map",
+    "static/js/3.b3cf85ef.chunk.js": "/aquavew-technology/static/js/3.b3cf85ef.chunk.js",
+    "static/js/3.b3cf85ef.chunk.js.map": "/aquavew-technology/static/js/3.b3cf85ef.chunk.js.map",
+    "index.html": "/aquavew-technology/index.html",
+    "static/css/2.d65fdcc0.chunk.css.map": "/aquavew-technology/static/css/2.d65fdcc0.chunk.css.map",
+    "static/css/main.da1f4add.chunk.css.map": "/aquavew-technology/static/css/main.da1f4add.chunk.css.map",
+    "static/js/2.fd58d1c4.chunk.js.LICENSE.txt": "/aquavew-technology/static/js/2.fd58d1c4.chunk.js.LICENSE.txt",
+    "static/media/AquaVew.4cd63a57.jpeg": "/aquavew-technology/static/media/AquaVew.4cd63a57.jpeg",
+    "static/media/Deepanse.4117c38a.jpeg": "/aquavew-technology/static/media/Deepanse.4117c38a.jpeg",
+    "static/media/Gaurav.4566ca99.png": "/aquavew-technology/static/media/Gaurav.4566ca99.png",
+    "static/media/Mobile.a16e234c.jpeg": "/aquavew-technology/static/media/Mobile.a16e234c.jpeg",
+    "static/media/Mohit1.0eb7baf7.jpeg": "/aquavew-technology/static/media/Mohit1.0eb7baf7.jpeg",
+    "static/media/Quility.03dec4f3.jpg": "/aquavew-technology/static/media/Quility.03dec4f3.jpg",
+    "static/media/UX.47099b86.jpg": "/aquavew-technology/static/media/UX.47099b86.jpg",
+    "static/media/Web-development.3f69bb9e.jpg": "/aquavew-technology/static/media/Web-development.3f69bb9e.jpg",
+    "static/media/about2.87e0c3f6.png": "/aquavew-technology/static/media/about2.87e0c3f6.png",
+    "static/media/bhaskar.5af76f12.jpg": "/aquavew-technology/static/media/bhaskar.5af76f12.jpg",
+    "static/media/digitalmarket.4669eab1.png": "/aquavew-technology/static/media/digitalmarket.4669eab1.png",
+    "static/media/agency.min.css": "/aquavew-technology/static/media/map-image.3cd6dd98.png",
+    "static/media/product.ac1a41dd.png": "/aquavew-technology/static/media/product.ac1a41dd.png",
+    "static/media/videos.321fe793.mp4": "/aquavew-technology/static/media/videos.321fe793.mp4",
+    "static/media/web-hosting.b23f6741.jpg": "/aquavew-technology/static/media/web-hosting.b23f6741.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b1913a9.js",
+    "static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.fd58d1c4.chunk.js",
+    "static/css/main.da1f4add.chunk.css",
+    "static/js/main.a6210ebf.chunk.js"
+  ]
+}
