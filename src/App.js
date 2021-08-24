@@ -60,7 +60,7 @@ function App() {
   <div className="container h-100">
     <div className="d-flex h-100 text-center align-items-center">
       <div className="w-100 text-white">
-        <h1 className="display-2">AquaVew Technologies </h1>
+        <h1 className="display-2">AquaVew Technologies</h1>
         <p className="lead mb-0 text-warning font-weight-bold">Pushing Limits With Brilliance</p>
       </div>
     </div>
@@ -263,7 +263,6 @@ At Innotical, the apps development team members are highly experienced and well-
       </div>
       <div className="row">
         <div className="col-lg-8 mx-auto text-center">
-          <p className="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
         </div>
       </div>
     </div>
